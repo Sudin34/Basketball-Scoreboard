@@ -129,7 +129,7 @@ line-height: 115px;
         .home-scorebox{
             position: relative;
             margin: auto;
-            margin-bottom: 30px;
+            margin-bottom: 60px;
             background-color: #000;
             width: 155px;
             height: 180px;
@@ -140,7 +140,7 @@ line-height: 115px;
         .guest-scorebox{
             position: relative;
             margin: auto;
-            margin-bottom: 30px;
+            margin-bottom: 60px;
             background-color:#000;
             width: 155px;
             height: 180px;
