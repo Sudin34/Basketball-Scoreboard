@@ -92,7 +92,7 @@ line-height: 115px;
     border: none;
     border-radius: 5px;
 }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1200px) {
    .container {
         position: absolute;
         left: 0;
