@@ -102,32 +102,25 @@ line-height: 115px;
         width: 100%;
         height: 60vh;
         color: #fff;
-       
-    }
+       }
      h3{
         font-size: 60px;
-        
-    }
+        }
     .home{
         width: 50%;
         height: 36px;
         font-family: 'Verdana';
         font-style: normal;
         font-weight: 700;
-        
-        
-        
         text-align: center;
         }
         .guest{
             width: 50%;
-        height: 36px;
-        font-family: 'Verdana';
-        font-style: normal;
-        font-weight: 700;
-        
-        
-        text-align: center;
+            height: 36px;
+            font-family: 'Verdana';
+            font-style: normal;
+            font-weight: 700;
+            text-align: center;
         }
         .home-scorebox{
             position: relative;
@@ -136,9 +129,7 @@ line-height: 115px;
            width: 255px;
             height: 220px;
             border-radius:5px; 
-        
-         
-        }
+            }
         .guest-scorebox{
             position: relative;
             margin: auto;
