@@ -4,7 +4,7 @@ body {
 
 .container {
     position: relative;
-    left: 40vw;
+    left: 20vw;
     top: 20vh;
     background-color: #146457;
     display: flex;
