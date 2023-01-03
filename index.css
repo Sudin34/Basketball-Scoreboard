@@ -92,3 +92,15 @@ line-height: 115px;
     border: none;
     border-radius: 5px;
 }
+@media screen and (max-width: 600px) {
+    .container {
+        position: absolute;
+        left: 0;
+        background-color: #146457;
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        color: #fff;
+       
+    }
+  }
